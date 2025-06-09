@@ -5,7 +5,7 @@
   import { storeToRefs } from 'pinia'
   import { useWorkStore } from '@/stores/workStore';
   
-  import PenSetting from './PenSetting.vue';
+  import PenSetting from './penSetting.vue';
   
   import Icon from '../../assets/icon.svg';
   import Edit from '../../assets/edit.svg';
